@@ -2,7 +2,7 @@ Closes: <!-- #issue number  -->
 
 - **Title** : 
 - **Name:** <!--Mention Your name-->
-- **Idenitfy yourself:** <!-- Mention your role (like GSOC, GSSOC, SSOC, etc. Contributor) -->
+- **Idenitfy yourself:** <!-- Mention your role (like Contributor) -->
 
 
 <!-- Mention the following details and these are mandatory -->
